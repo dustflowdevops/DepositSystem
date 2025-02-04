@@ -683,11 +683,11 @@
 			]
 		},
 		"DepositSystem.sol": {
-			"keccak256": "0x478435c34eedb63195a847bfa124f642c237248f3c862bf13be115b00e1cc424",
+			"keccak256": "0xd360dabc4031b1f8a130ba6d2d333f46bf58d6f36cf1789ce712f3b75febe885",
 			"license": "Proprietary",
 			"urls": [
-				"bzz-raw://37685041879e2bde3de34be40f695398ac1ab8ed48ad38e96f3d77a15a34bb80",
-				"dweb:/ipfs/QmT3sdxnpxn9a3zrwoLbgPd6HPoMrZ4rtnCnGxWxiJ4xs4"
+				"bzz-raw://9db2bfc60e425bb415ca099423906b7ed169caaf75e9731970b3dcde45ed2b9a",
+				"dweb:/ipfs/QmRPTRRvpsUpHAZcRkchXsDhiL9iTNixKXF8RNpiG3fafL"
 			]
 		},
 		"Percent.sol": {

@@ -160,7 +160,7 @@ contract TokenCreation is WalletContract {
 
         if(balance < amount)
         {
-            deposit(rootToken, amount);
+            deposit(rootToken, amount -balance);
         }
 
         removeBalanceFrom(msg.sender, rootToken, amount);
