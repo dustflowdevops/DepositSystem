@@ -1,0 +1,22 @@
+// SPDX-License-Identifier: Proprietary
+
+COLLATERALTOKENS
+CT1 - Deposit token already created
+
+CONTRACT EXCEPTIONS
+C1 - Value cant be null
+C1.1 - Value must be null, becose root value is null
+C2 - Already exists value
+C3 - Value must be different
+C3.1 - Value is fixed, and cant be changed
+C4 - Amount mismatch
+C5 - Value out of range
+
+BALANCE AND TOKEN EXCEPTIONS
+T1 - Balance is not enought to action
+T2 - To low allowance to transfer
+T3 - Not enough money to withdrawal
+
+GLOBAL LOGIC EXCEPTIONS
+L1 - Cant do this action on disabled contract
+L2 - Only owner can do this
