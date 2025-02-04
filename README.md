@@ -11,7 +11,7 @@ This allows for the creation of a new economy where tokens can be “burned” a
 The deposit serves as a kind of reputation collateral that can always be used in the future, due to the fact that it cannot be lost from the blockchain, making it a significant argument in establishing reputation. Unlike a system based only on a local system of funds (e.g. forums), here your deposit has its own liquidity regardless of the platform on which it has been incurred, since any participant can view the smart contract and verify that the deposit is based on real funds.
 of the system owner.
 
-### 3. ReportContract and EscrowService can work together
+### 3. ReportSystem and EscrowService can work together
 These contracts make it possible to process transactions and resolve trust issues through the ability to leave feedback about a person (both after a transaction and in general). Through the interaction of these contracts, a chain of actions is created, similar to how the transaction system works on forums and freelance exchanges, but without the possibility of fraud or loss on the part of the system owner.
 
 # DepositSystem RU
@@ -26,5 +26,5 @@ These contracts make it possible to process transactions and resolve trust issue
 ### 2. Долгосрочные сделки и общепринятая репутация
 Депозит служит своего рода залогом репутации, который всегда можно использовать в будущем, в связи с невозможностью его пропажи из блокчейна, что делает его значимым аргументом при установлении репутации. В отличие от системы, основанной только на локальной системе средств (например, на форумах), тут ваш депозит имет свою ликвидность независимо от платформы на которой был инцирован,в связи с тем-что любой участник может посмотреть смарт контракт и убедиться что депозит создан на основе реальных средств.
 
-### 3. Возможна совместная работа ReportContract и EscrowService
+### 3. Возможна совместная работа ReportSystem и EscrowService
 Эти контракты делают возможным процесс для обработки сделок и урегулирования вопросов доверия через возможность оставить отзыв о человеке(как после сделки, так и в общем плане). Благодаря взаимодействию этих контрактов создается цепочка действий, аналогичная тому, как работает система сделок на форумах и фриланс биржах, но без возможности обмана или потерь со стороны владельца системы.
